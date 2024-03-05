@@ -1,0 +1,7 @@
+torch
+accelerate
+diffusers
+transformers
+argparse
+ezkl
+boto3
